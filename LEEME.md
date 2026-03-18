@@ -16,4 +16,4 @@ A website for **Troop 723** (Bayamon, PR — Region 3) to give families one plac
 
 ## Project status
 
-Phase 1 requirements are defined (see **Context.md** — “Phase 1 decisions”). Target: information hub live next month. Stack: plain HTML/CSS/JS; bilingual (EN/ES); GitHub Pages. Content maintained by Carlos De Jesus.
+Phase 1 requirements are defined. Target: information hub live next month. Stack: plain HTML/CSS/JS; bilingual (EN/ES); GitHub Pages. Content maintained by Carlos De Jesus.
